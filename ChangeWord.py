@@ -1,4 +1,4 @@
-# take an input string of a single word, return a string wherein every word of the input string is either 'x' if that letter only appeared once, or 'y' if it appeared more than once.
+# take an input string of a single word, return a string wherein every letter of the input string is either 'x' if that letter only appeared once, or 'y' if it appeared more than once.
 
 Word = str(input('Input a word'))
 
